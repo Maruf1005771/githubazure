@@ -4,4 +4,10 @@
   border: none;
   padding: 10px 16px;
   border-radius: 4px;
+  cursor: pointer;
+}
+
+.book-now-button:hover,
+.book-now-button:focus {
+  background-color: #106ebe;
 }
