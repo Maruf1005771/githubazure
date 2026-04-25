@@ -8,3 +8,6 @@ AB#ID: 111 Update Readme
 AB#ID: 111 Update Readme
 AB#ID: 111 Update Readme
 AB#ID: 111 Update Readme
+
+
+I have added repo rules , 1st checking .
